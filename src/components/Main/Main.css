@@ -1,0 +1,29 @@
+.main {
+    background-color: #FFFFFF;
+    margin-top: 10px;
+}
+
+.main-content {
+    display: flex;
+    gap: 2rem;
+}
+
+.main-text {
+    font-weight: 600;
+    color: var(--darkGrey);
+    margin-left: 14px;
+}
+
+.search-main {
+   width: 30%;
+   height: 60px;
+   border-radius: 50px;
+   text-align: center;
+   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+   background-color: #FFFFFF;
+   color: black;
+   font-size: 17px;
+   font-weight: 400;
+   justify-content: center;
+   align-items: center;
+}
