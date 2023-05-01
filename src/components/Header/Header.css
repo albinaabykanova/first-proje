@@ -1,8 +1,4 @@
 
-.logo {
-    width: 60px;
-}
-
 .createButton{
     color: white;
     text-align: center;
@@ -13,6 +9,16 @@
     background-color: #ffe4ef;
     margin-right: 20px;
 }
+
+.custom-btn {
+    background: y;
+    color: rgb(0, 255, 68);
+    border: 2px solid red;
+    border-radius: 30px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+  }
+  
 .nav-link{
     color: #000!important;
     font-weight: bold;
